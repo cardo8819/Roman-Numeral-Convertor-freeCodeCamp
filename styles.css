@@ -1,0 +1,22 @@
+.display{
+    display: none;
+}
+
+.container h1{
+    color: white;
+}
+
+body{
+    background: linear-gradient(to bottom right, black 50%, grey);
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+/* #number{
+    font-size: 22px;
+}
+
+p.display{
+    font-size: 22px;
+} */
